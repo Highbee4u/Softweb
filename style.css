@@ -1,0 +1,21 @@
+
+#myLeft{
+	float: left;
+	padding-right: 80px;
+	width:150px; 
+	height:150px;
+	padding-right:10px;
+}
+#con{
+	float: center;
+	height: auto;
+	width: auto;
+}
+
+body {background-color:lightgrey;}
+
+#jkl{
+	float: left;
+	height: auto;
+	width: auto;
+}

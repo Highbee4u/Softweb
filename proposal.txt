@@ -1,0 +1,183 @@
+How To Write A Business Proposal In 5 Easy Steps
+
+By Jeremy Marsan on March 15, 2017 | How To | Comments (65)
+
+Before you can close any deal, a written proposal to your client is essential. The art of proposal writing is key to expanding your business with quality relationships. However, writing a business proposal can be tricky. You need to promote your business, yet keep the details honest and straightforward. In this guide, we explain how to write a business proposal with 5 easy steps. We’ll also show you how to manage your proposals more efficiently using ProsperWorks CRM— both before and after you’ve won them. Here’s the steps we’ll be covering:
+
+    Step 1: Get Your Timing Right
+    Step 2: Outline the Scope of the Project
+    Step 3: What Sections to Write in Your Proposal
+    Step 4: Editing Your Proposal
+    Step 5: Sending Your Proposal & Follow Up
+    After You Win The Contract
+
+Thanks to ProsperWorks for sponsoring this article.
+Step 1: Get Your Timing Right
+
+When a hot business opportunity becomes available, you may feel pressure to get your proposal sent over as soon as possible. While you certainly want to send it sooner than later, taking some time to learn about the client and project first will help you craft a proposal that’s more likely to be accepted.
+
+According to Andy Freivogel of Science Retail, a simple rule of thumb is to send a proposal after your first meeting. Include a personal note that acts as a follow up: “Hey it was great connecting the other day…”, then attach your proposal.
+
+There are exceptions to this rule. For example, if a business has multiple offices/locations, you may need to visit more of them before you can accurately assess the project. In this scenario, timing requires the right balance: You don’t want to send a proposal prematurely— especially if you can’t accurately estimate costs— but you also don’t want to provide too much free labor.
+
+As we’ll explain more below, one solution is to include caveats. These will allow you to send your proposals quickly, while also protecting you from unexpected turns the project may take.
+ProTip: Use a CRM to Stay Organized
+
+    how to write a business proposal“Most businesses will find a lot of loose ends while researching their proposals. There’s dates and faces to remember, and plenty of extraneous details. If you’re not already storing this information in a centralized location, it should be one of your first steps.”
+
+    —Bret Knobelauch, VP of Sales for ProsperWorks
+
+CRM systems are used to store and manage your leads/contacts, so it’s the ideal place to manage your proposals as well. A proposal “pipeline,” like the one shown below in ProsperWorks CRM, organizes all your potential deals based on how far they are in the process. Clicking one of these opens a separate menu that contains contact information, meeting notes, documents, emails, and other key information.
+how to write a business proposal
+
+A custom “pipeline” in ProsperWorks CRM: To the left are all my proposals in the research stage; in the center proposals being written, and to the right proposals awaiting a response. These stages are fully customizable.
+Step 2: Outline the Scope of the Project
+
+Before you start typing out the proposal itself, take a moment to reflect on the project. Answer the “who, what, where, how, when, and why.”
+
+    Who: who will do the work, who will manage the work, who does the customer call if there is a problem?
+    What: what needs to be done/delivered, what will be required to do it, what can the customer expect, what will it cost?
+    Where: where will the work be done, where will it be delivered?
+    When: when will you start, when will key milestones be scheduled, when will the project be complete, when is payment due?
+    How: how will be work be done, how will it be deployed, how will it be managed, how will you achieve quality assurance and customer satisfaction, how will risks be mitigated, how long will it take, how will the work benefit the customer?
+    Why: why have you chosen the approaches and alternatives you have selected, why should the customer select you?
+
+Writing these out will give you a head start on your proposal, since these answers will make up the bulk of your body. It also gives you final confirmation that you have the necessary resources to complete the project – or otherwise, will point out any major snags before you get too invested.
+Estimating Labor and Costs
+
+Early on, you also want to consider how much the project will cost – and thus, in turn, how much to charge the client. As Andy told us, many businesses use a simple formula to estimate their labor costs: Take a mental walk-through of the project & write down the realistic number of hours it will take for each task. Add all of this up, and multiply it by 1.5.
+
+In other words, if you estimate a project will take 10 hours, write it down as 15 hours in your proposal. (10 * 1.5 = 15)
+
+Why overestimate? Despite how it seems, this isn’t to squeeze any extra bucks out of the customers. Rather, it’s because projects often have unexpected twists and turns. Adding this extra time will help account for any potential snags.
+
+Plus, if everything goes smoothly and you wind up below your estimated hours, you can always offer bonus work, or bill your client a lower amount. Both will make for very happy customers.
+Step 3: How to Write a Business Proposal
+
+Now it’s time to dive into the actual proposal document. Proposals tend to follow a loose formula: They start with an intro that summarizes your business and the project, followed by a body that fleshes out all the detail (including a pricing table), and a conclusion that tells the customer how to proceed.
+
+Next, we’ll describe each step with more detail. Also, don’t forget to check out our free business proposal template when you’re ready to begin writing your own.
+Section 1: Introduction
+
+Start by introducing your company and mission in a way that relates to your potential client’s needs. You can include a brief story that gives your client a feel for you brand’s character and helps build trust. Highlight what distinguishes your company, your accomplishments, credentials, and any awards.
+
+The length of your intro should be a matter of common sense. If you’re proposing a one-day carpet cleaning job, don’t spend more than few sentences describing your business. If your contract is poised to last several years, however, you’ll probably need to spend a lot more time describing your core business values. Nonetheless, try to always keep it under 1 page.
+Section 2: Executive Summary
+
+The executive summary is one of the most important sections in your proposal. This is where you should present the case for why you are the right company for the job, and give the reader the takeaway message of the proposal. You should not try to summarize every aspect of the proposal, but rather focus on the conclusions you want the reader to reach after reading it.
+
+Use direct, factual language that is objective and persuasive. This section should be also be kept under 1 page.
+Section 3: Table of Contents (optional)
+
+A table of contents can be helpful for longer proposals with lots of details. List each section (and subsection) with their corresponding page number.
+
+In general, we recommend keeping your proposal as short as possible. So most proposals shouldn’t need this extra section.
+Section 4: Body
+
+Once you have presented your overall case in the Executive Summary, you can outline the specifics of your proposal. This is where you can answer the “who, what, when, where, how, and why” questions that you identified in step 2. Include information on scheduling, logistics, and pricing. You can also include testimonials from past clients and a link to your website.
+Include your caveats
+
+The body is also where you include caveats, or disclaimers about the type of work you can deliver. As Andy explained, this is one of the most important parts of your business proposal – and one of the trickiest arts to master.
+
+It’s a common tendency for clients to overextend (knowingly or unknowingly) their expectations of a provider. For example, let’s say you’re a business hired to setup internet and WiFi. While on the job, you’re also asked to set up their VoIP phones.
+
+In the moment, this doesn’t seem like a big deal – after all it’s just a matter of plugging ethernet cables into the phones. Weeks later, however, you start receiving calls about phones that aren’t working. Unintentionally, you made yourself liable for a system that’s not even your specialty.
+
+To avoid this type of responsibility, you can write caveats – both about the type of work you offer, and for your pricing.
+Example Caveat
+
+An example of a caveat might be:
+
+“[Your Company Name] will service all technical issues involving [Your Specialties]. We reserve the right to charge extra in the of an issue that is not listed above.”
+
+On the flipside, you don’t want to include so many caveats that your client is scared away. This is where the “art” of how to write a business proposal comes in: Include all necessary disclaimers, but word them in a way that still shows the value you’ll bring to a business.
+Section 5: Conclusion
+
+Once you have outlined the details of your proposal, re-emphasize the exceptional results your company can provide. You should conclude with a call to action that encourages the reader to contact you or visit your website for more information. Ideally, you want your client to take an immediate action, even if it is something small.
+Section 6: Appendix
+
+The Appendix is an optional section that you can use to include information that might not fit well in the body of your proposal. For example, you can include resumes or additional graphs, projections, and customer testimonials.
+Should I Set a Deadline?
+
+Generally, no. Unless there’s an actual time limitation, a deadline is just an arbitrary statement. All it does is put pressure on your client to sign the deal quickly.
+
+While this was a common sales strategy in the past, many small business owners have veered away from this philosophy today. As Andy explained to us, deadlines aren’t a great trust-builder. They reveal your focus is on the contract itself – not on the client’s needs and long-term well being.
+
+The only time you should use a deadline is when your resources are limited depending on the time frame. For example:
+
+    Material Costs: Price of goods like electronics, raw materials, and even some foods (Lobster anyone?) can fluctuate from one week to the next. If your pricing is time-sensitive, make note of this in the proposal.
+    Resource Availability: Your office has a major project starting next month. You can pick up a smaller project beforehand, but only if you start immediately. In a scenario like this, just explain your situation so your client understands why they need to make a fast decision.
+
+ProTip: Use Custom Fields in Your CRM to Save Important Details
+
+As you write your proposal, you’ll likely keep referring back to old emails and notes to find the “who what where when and hows.” As we mentioned before, a CRM is a great place to store these important tidbits of information. In particular, custom fields remind you and your employees to collect this information, and make it easily accessible later on.
+
+For example, a catering business might collect following information:
+how to write a business proposal
+
+ProsperWorks CRM setup for a catering business with custom fields
+
+Note the custom fields I have saved in the left column— Number of seats, Event Date, Selected Entree #1, etc. These automatically appear on my proposal’s “opportunity” page. From the same menu, I can also view/add notes, emails, attached documents, relevant contact information and more.
+
+    how to write a business proposal“Whether you’re installing computers or catering a wedding, staying organized and addressing the needs of your customers will help you stand out.. Teams that approach their business proposals in a systematic way are far more likely to have a winning strategy.”
+
+    —Bret Knobelauch, VP of Sales for ProsperWorks
+
+Step 4: Editing Your Proposal
+
+First and foremost: proofread. Whenever possible, send it to somebody else to read over. A second set of eyes can catch errors you may not notice.
+
+Secondly, you need to pay attention to the tone and length of your proposal. In particular, make sure your proposal is short enough to read in a single sitting, and contains language that is professional, yet clear.
+How Long Should the Proposal Be?
+
+You want your proposal to be as short as possible without missing any key information. As Andy explained to us, this is for a very simple reason: So your client doesn’t pass it onto somebody else.
+
+If your recipient can’t read and digest your proposal in a single sitting (about 8 minutes), chances are it will go back on their to-do pile, or get forwarded to another employee. Best case, this prolongs the sales process. Worst case, it pulls you out of the running.
+
+What can I do to make my proposal shorter? Any superfluous information, like testimonials, graphs and charts can be moved to the appendix. As far as the text itself, keep an eye out for repetition. Rather than emphasize your value proposition again and again, find a single example that drives your point home: “How much do we care about our customers? Our phone line is open 24/7 and we respond to all emails within 30 minutes or less.”
+The Tone And Language You Should Use
+
+Make sure you use clear, concise, and simple language that avoids industry jargon and technical terms. At the same time, avoid using hyperbole that exaggerates your company or service (“Our groundbreaking product quadruples sales!”), as this may undermine the trust you are trying to establish with your potential client.
+
+For his proposals at Science Retail, Andy’s solution is a balance of “keeping it real & keeping the basic formalities of a business proposal.” In other words, use the same casual-meets-formal tone you would use in their office during a meeting.
+
+There is one exception: Even if you’ve cracked jokes with your potential client, keep humor out of your proposal. As Andy explained, this is because you never know who is reading the proposal. Often it gets passed from a business owner to other employees, spouses, and even friends. A joke that lands well with your client may fall flat with somebody else.
+Step 5: Sending Your Proposal & Follow Up
+
+If you’ve written a proposal before, you know the work is hardly over after you click “send.” Following up with a client to give them a reminder and to answer questions is a key part of the proposal process.
+
+Since most businesses send their proposals via email, it’s fairly easy to decide when to follow up. Here’s how:
+
+    Using email tracking software, you can receive a notification when the recipient opens your message.
+    Follow up the next morning to see if they have any questions.
+
+Email tracking is offered by a number of different programs – including ProsperWorks CRM. Simply login to ProsperWorks and and find your potential customer’s contact page. Click on their email address to write a message and attach your proposal.
+
+Later, head to the “My Tracked Emails” menu and you’ll be able to see exactly when your recipient opens the message.
+how to write a business proposal
+
+Email tracking in ProsperWorks CRM
+
+Waiting for the perfect time to follow up should be a simple, but significant, part of your proposal strategy. A prospect will be far more receptive to a follow up conversation when your proposal is fresh on their mind— whether they gave it a full read through, or just a quick glance. Utilizing email tracking tools, like those offered by ProsperWorks, is another easy step you can take to master the followup process.
+After You Win The Contract
+
+While you might be thinking the challenge ends with a signed contract, this is not exactly the case. As any small business owner can attest, it’s essential to apply the same level of organization to implementation and ongoing support. This means, again, keeping the details straight and staying on top of deadlines.
+
+If you’ve been using a CRM to manage the proposal so far, it’s the perfect place to continue managing your projects. You can keep referring back to your proposal page to find key details, notes, documents like purchase orders, and copies of any emails sent between your team and the client (ProsperWorks is able to log these automatically from Gmail).
+
+If your implementation process is complicated, you can also create a new custom pipeline like the one we showed you earlier. For example, a catering business might create steps like “Add to Calendar,” “Confirm Seats & Menu,” and “Contact Supplier.” With this pipeline in place, you can ensure each project is running smoothly, with each responsible employee playing their part.
+how to write a business proposal
+
+A custom pipeline in ProsperWorks CRM, used to manage the completion of catering orders.
+
+    how to write a business proposal“For customers, it comes down to three things: Being on schedule, staying on budget, and receiving a high quality product or service. Even if you’re the #1 expert in town, your clients won’t be happy if you can’t deliver on these items.
+
+    Use your CRM to stay organized and nurture relationships, and you’ll find continued business success— both from repeat clients, and referrals.”
+
+    —Bret Knobelauch, VP of Sales for ProsperWorks
+
+The Bottom Line
+
+In terms of how to write a business proposal, the most important thing is to try and think like your client. If you can put yourself in their shoes, you will be better able to explain why your company is the best for the job and anticipate all the questions they may have.
+
+If you’re having trouble staying organized as you research and write your proposal, you can also implement a tool like ProsperWorks CRM. This will become very handy for sending your proposal (since you can track when your recipient opens the message) and for your ongoing implementations and support.

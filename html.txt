@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Skillfair</title>
+  <meta charset="utf-8"/>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+  <link href='https://fonts.googleapis.com/css?family=Roboto:300,400,700' rel='stylesheet' type='text/css'>
+  <link rel="stylesheet" type="text/css" href="main.css">
+</head>
+<body>
+<header class="container">
+<div class="row">
+  <h1 class="col-sm-4">Softweb System Technologies</h1>
+   <nav class="col-sm-8 text-right">
+     <p>home</p>
+      <p>catalogue</p>
+     <p>services</p>
+      <p>contact</p>
+     </nav>
+  </div>
+</header>
+===============================================================
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Ollie Bike Sharing</title>
+  <meta charset="utf-8"/>
+  <link rel="stylesheet" type="text/css" href="main.css">
+</head>
+<body>
+  <div class="container">
+    <div class="nav">
+  <h2>Ollie</h2>
+  <ul>
+  <li>sign up</li>
+  <li>search bikes</li>
+  <li>reserve a bike</li>
+  <li>about us</li>  
+  </ul>
+    </div>
+ <div class="main">   
+<h1>Welcome TO Softweb System Technologies</h1>
+<h3>How May We Help You TO Solve Problem</h3>
+<p>Need a Software Developer, E-Commerce or Website, Android App, Database Design, Digital Marketer here you fine us. Here is a <a href="cities.html"> list</a> of cities where you can find us.
+</p> 
+<video width="320" height="240" controls>
+  <source src="https://s3.amazonaws.com/codecademy-content/projects/make-a-website/lesson-1/ollie.mp4"
+   type="video/mp4">
+  </video>
+   </div>
+  </div>
+</body>
+</html>
+
+  <section class="jumbotron">
+<div class="container">
+  <div class="row text-center">
+    <h2>Here is Softwares</h2>
+      <h3>This Year's Best</h3>
+      <a class="btn btn-primary" href="#" role="button">See all</a>
+    </div>
+  </div>
+</section>
+
+  <section class="container">
+ <div class="row">
+<figure class="col-sm-6">
+<p>Kitchen</p>
+  https://s3.amazonaws.com/codecademy-content/projects/make-a-website/lesson-4/kitchen.jpg
+    </figure>
+    <figure class="col-sm-6">
+   <p>woodwork</p>
+      https://s3.amazonaws.com/codecademy-content/projects/make-a-website/lesson-4/woodwork.jpg
+    </figure>
+  </div>
+  <div class="row"> 
+ <figure class="col-sm-6">
+    <p>gifts</p>
+   https://s3.amazonaws.com/codecademy-content/projects/make-a-website/lesson-4/gifts.jpg
+    </figure>
+    <figure class="col-sm-6">
+   <p>antiques</p>
+      https://s3.amazonaws.com/codecademy-content/projects/make-a-website/lesson-4/antique.jpg
+    </figure>
+  </div>
+</section>
+
+</body>
+</html>
+====================================================================================
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Skillfair</title>
+  <meta charset="utf-8"/>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+  <link href='https://fonts.googleapis.com/css?family=Roboto:300,400,700' rel='stylesheet' type='text/css'>
+  <link rel="stylesheet" type="text/css" href="main.css">
+</head>
+<body>
+  <header class="container">
+    <div class="row">
+      <h1 class="col-sm-4">Skillfair</h1>
+      <nav class="col-sm-8 text-right">
+        <p>newest</p>
+        <p>catalogue</p>
+        <p>contact</p>
+      </nav>
+    </div>
+  </header>
+  <section class="jumbotron">
+    <div class="container">
+      <div class="row text-center">
+        <h2>Homemade Goods</h2>
+        <h3>This Year's Best</h3>
+        <a class="btn btn-primary" href="#" role="button">See all</a>
+      </div>
+    </div>
+  </section>
+
+
+</body>
+</html>
+
